@@ -111,6 +111,60 @@ PRAKTIKUM 13 TENTANG FRAMEWORK LANJUTAN (MODUL LOGIN)
 ![3h](https://user-images.githubusercontent.com/59879254/125157821-46426600-e197-11eb-97ff-59d492b1462d.png)
 
 
+PRAKTIKUM 14 TENTANG PAGINATON DAN PENCARIAN
+
+1. Pada file controller artikel, modifikasi kode pada method admin_index seperti berikut
+![1](https://user-images.githubusercontent.com/59879254/125157915-ec8e6b80-e197-11eb-99d0-7907cdc194d2.png)
+
+2. Kemudian buka file admin_index dan tambahkan kode berikut 
+![2](https://user-images.githubusercontent.com/59879254/125157956-18a9ec80-e198-11eb-8ef2-22c3a25e1660.png)
+
+3.  MEMBUAT PENCARIAN
+
+- Untuk membuat pencarian data, buka kembali controller artikel dan pada method admin_index ubah kode seperti berikut
+![3](https://user-images.githubusercontent.com/59879254/125158052-93730780-e198-11eb-8069-51c0f5180395.png)
+
+- Kemudian pada file views buka kempali file admin_index dan tambahkan kode berikut
+![4](https://user-images.githubusercontent.com/59879254/125158073-bbfb0180-e198-11eb-9511-8ea3a80b0d21.png)
+
+- Kemudian pada link pager ubah seperti berikut
+![5](https://user-images.githubusercontent.com/59879254/125158088-e220a180-e198-11eb-8536-295bd85e1b39.png)
+
+4.UPLOAD GAMBAR
+
+- Pada controller artikel, sesuaikan kode pada method add seperti berikut
+![6](https://user-images.githubusercontent.com/59879254/125158131-201dc580-e199-11eb-8fc7-6ccf15c1e63b.png)
+
+- Kemudian pada file form_add tambahkan field input file seperti berikut
+![7](https://user-images.githubusercontent.com/59879254/125158157-45aacf00-e199-11eb-912e-0d83a2abea07.png)
+
+- Sesuaikan tag form dengan menambahkan ecrypt type seperti berikut
+![8](https://user-images.githubusercontent.com/59879254/125158165-64a96100-e199-11eb-84cb-1db21c5f6dbe.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
