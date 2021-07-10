@@ -86,7 +86,29 @@ Tambahkan fungsi/method baru pada controller artikel dengan nama delete.
 ![28](https://user-images.githubusercontent.com/59879254/122980071-74b3f900-d3c2-11eb-93cd-0efcf1a3c8da.png)
 
 
+PRAKTIKUM 13 TENTANG FRAMEWORK LANJUTAN (MODUL LOGIN)
 
+1. MEMBUAT MODEL USER
+![3a](https://user-images.githubusercontent.com/59879254/125157609-3aa26f80-e196-11eb-99cb-a29a78e2841e.png)
+
+2. MEMBUAT CONTROLLER USER
+![3b](https://user-images.githubusercontent.com/59879254/125157643-6de4fe80-e196-11eb-9af4-3533faf71dfa.png)
+![3c](https://user-images.githubusercontent.com/59879254/125157670-94a33500-e196-11eb-8c5e-61f3b3ec37a7.png)
+
+3. MEMBUAT VIEW LOGIN
+![3d](https://user-images.githubusercontent.com/59879254/125157697-a97fc880-e196-11eb-88ff-3624b712366f.png)
+
+4. MEMBUAT DATABASE SEEDER
+![3e](https://user-images.githubusercontent.com/59879254/125157739-cae0b480-e196-11eb-92e9-3c85d0a3fd43.png)
+
+5. MENAMBAHKAN AUTH FILTER
+![3f](https://user-images.githubusercontent.com/59879254/125157767-f6fc3580-e196-11eb-827e-03cd318fe1c3.png)
+
+- Tambahkan kode berikut pada file filters
+![3g](https://user-images.githubusercontent.com/59879254/125157799-2612a700-e197-11eb-84c1-760974140013.png)
+
+- Pada file routes sesuaikan kode sebagai berikut
+![3h](https://user-images.githubusercontent.com/59879254/125157821-46426600-e197-11eb-97ff-59d492b1462d.png)
 
 
 
